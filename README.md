@@ -1,0 +1,2 @@
+# Community-Assistance-Object-Management-System
+基于Spring Boot和Vue的社区帮扶对象管理系统旨在优化和提升社区帮扶工作效率。后端使用Spring Boot构建RESTful API，支持帮扶对象信息登记、需求记录、资源匹配和进度跟踪等功能。前端通过Vue.js提供友好的用户界面，便于社工和志愿者快速获取信息和反馈。该系统致力于实现资源的有效整合，确保社区帮扶工作的精准施策，从而提升帮扶对象的生活质量和福祉。
